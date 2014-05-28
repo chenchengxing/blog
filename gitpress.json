@@ -1,5 +1,5 @@
 {
-    "docs"      : ["README.md","项目总结.md"],
+    "docs"      : ["README.md","项目总结.md","AngularJS代码规范.md"],
     "template"    : "default",
     "perpage"   : 10,
     "order"  : "number",

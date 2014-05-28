@@ -9,7 +9,7 @@
         "\\.html?$"            : "html",
         ".*"                   : "text"        
     },
-    "title"  : "Akira's Blog",
+    "title"  : "炸油条的博客",
     "description" : "My Blog Description...",
     "comment"  : {"type":"disqus", "short_name":"gitpress"},
     "friends"  : [

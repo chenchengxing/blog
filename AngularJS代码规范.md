@@ -1,5 +1,4 @@
-
-# 书写具备一致风格、通俗易懂 JavaScript 的原则 `for AngularJS`
+# 书写具备一致风格、通俗易懂 JavaScript 的原则 -for AngularJS
 
 ## Zen
 > 无论有多少人在维护，所有在代码仓库中的代码理应看起来像同一个人写的。
@@ -48,8 +47,7 @@
 2. <a name="spacing">美化语法</a>
 
     A. 小括号, 花括号, 换行
-
-    ```javascript
+```javascript
 
     // if/else/for/while/try 通常都有小括号、花括号和多行
     // 这有助于可读
